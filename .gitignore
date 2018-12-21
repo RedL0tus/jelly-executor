@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Configs
+config.ini
+Jelly-executor.session
+source.ini
+
+# Temp files
+new_ver.txt
+old_ver.txt
