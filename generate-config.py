@@ -8,7 +8,7 @@ import configparser
 
 from collections import OrderedDict
 
-ABBS_TREE = '/mnt/data/aosc/TREE'
+ABBS_TREE = '/mnt/misc/aosc/explosive/TREE'
 
 KEYWORDS = {
     'pypi.io': 'pypi',
